@@ -14,6 +14,6 @@
 My favorite awesome ressources :
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-- [ramitsurana/awesome-kubernetes]https://github.com/ramitsurana/awesome-kubernetes
+- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
