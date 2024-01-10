@@ -10,9 +10,9 @@
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=edd34&show_icons=true)
 
 My favorite awesome ressources :
-- [vinta/awesome-python](https://github.com/vinta/awesome-python)
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
+- [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - [Awesome interview questions Python](https://github.com/DopplerHQ/awesome-interview-questions#python)
