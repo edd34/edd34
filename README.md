@@ -3,9 +3,9 @@
   - [LinkedIn](https://www.linkedin.com/in/eddineomar/)
   - Email : [eddine.farid@hotmail.fr](mailto:eddine.farid@hotmail.fr)
   - Website : [https://www.eddineomar.fr/](https://www.eddineomar.fr/)
-- 🌱 I’m currently learning frontend-dev : Vue.js/Nuxt.js + programming language and compiler design, algorithm / datastructure, software architecture / system design.
-- I am an expert in Python (Django, Flask, and programming), Git workflow, Docker/Docker-Compose with some devops/automation.
-- 💬 Ask me about solidity, blockchain, smartcontracts, python & backend, git, DevOps, software architecture, I'll be happy to give advice !
+- 🌱 I’m currently interested in : Operating System, programming language and compiler design, algorithms / datastructures, software architecture + system design.
+- I am an expert in Python (Django, Flask, Fastapi + backend + programming + scripting), Git workflow, Docker/Docker-Compose with some devops/automation.
+- 💬 Ask me about python & backend, git, docker (and compose!), DevOps, software architecture, I'll be happy to give advice !
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=edd34&show_icons=true)
 
